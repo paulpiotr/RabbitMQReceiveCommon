@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace RabbitMQReceiverCommon
+﻿namespace RabbitMQReceiverCommon
 {
     public class RabbitMQReceiverCommon
     {
